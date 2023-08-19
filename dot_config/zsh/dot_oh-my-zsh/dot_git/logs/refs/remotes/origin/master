@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 c10241f3d1d7bf77d483e11869a6a00f1d2e5e88 Heinz <heinz@heinz-7040.(none)> 1647120779 +0100	fetch --depth=1 origin: storing head
+c10241f3d1d7bf77d483e11869a6a00f1d2e5e88 dbadfa0810c0be346b98c02cc802c33fa43bee11 Heinz <heinz@heinz-7040.(none)> 1648455458 +0200	pull --quiet --rebase origin master: fast-forward
+dbadfa0810c0be346b98c02cc802c33fa43bee11 846f417eb8ec76e8eee70000e289b8b81f19d480 Heinz <heinz@heinz-7040.(none)> 1649616100 +0200	pull --quiet --rebase origin master: fast-forward
+846f417eb8ec76e8eee70000e289b8b81f19d480 ed411d3ff196e32844409ebe0f8b3e21b0b1c9f6 Heinz <heinz@heinz-7040.(none)> 1650309163 +0200	pull --quiet --rebase origin master: fast-forward
+ed411d3ff196e32844409ebe0f8b3e21b0b1c9f6 8f56a8bdf39d7727ab0e220f0164f78c77f9c50e Heinz <heinz@opti-7040.lan> 1651482402 +0200	pull --quiet --rebase origin master: fast-forward
+8f56a8bdf39d7727ab0e220f0164f78c77f9c50e 39b600e9e564db3dec265fcf2e3db4b5568dd93a Heinz <heinz@opti-7040.lan> 1652856948 +0200	pull --quiet --rebase origin master: fast-forward
+39b600e9e564db3dec265fcf2e3db4b5568dd93a 50550c70eaa36e79fdf380bdc4ddad4a1ad581a0 Heinz <heinz@opti-7040.lan> 1655232703 +0200	pull --quiet --rebase origin master: fast-forward
