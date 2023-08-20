@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-source log4bash.sh
+source common.sh
 
 # The following code is "borrowed" and modified from https://github.com/theS1LV3R/dotfiles/
 
