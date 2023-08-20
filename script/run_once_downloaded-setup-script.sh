@@ -20,7 +20,7 @@ _install() {
   filename="install_$1.sh"
 
   # Common packages are installed automatically
-  export common_packages="zsh neofetch curl wget net-tools python"
+  export common_packages="zsh neofetch curl wget net-tools python gum"
   export python_packages=""
 
   log_info "Running ./$filename"
@@ -49,6 +49,10 @@ options="$(gum choose --no-limit --selected="All" "All" "$CHANGE_SHELL" "$DOCKER
 # If selected, Change shell to zsh
 if [[ $options == "All" ]] || [[ $options =~ ^$CHANGE_SHELL$ ]]; then
   log_verbose "$CHANGE_SHELL"
+
+  log_info "Downlaoding font"
+
+  gum spin -- ./../dot_local/share/fonts/download-fonts.sh
 
   zsh_bin=$(command -v zsh)
 

@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 sudo apt update
-sudo install gum
+sudo apt upgrade -y
 
 export DEBIAN_FRONTEND=noninteractive
 
